@@ -7,7 +7,7 @@
 #+END_COMMENT
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 
-#+TITLE: AS Past Paper solutions
+#+TITLE: A2 Past Paper solutions
 #+AUTHOR: Stephen Brown
 #+OPTIONS: toc:nil f:nil author:nil num:nil creator:nil timestamp:nil 
 
@@ -18,15 +18,15 @@
 </div>
 </div>
 #+END_HTML
-* [[file:examples/2009.docx][June 2009 Paper]]
+* [[file:examples/2010.pdf][June 2010 Paper]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:examples/2010.docx][June 2010 Paper]]
+* [[file:examples/2011.pdf][June 2011 Paper]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[./index.html][Return to homepage]]
+* [[http://www.bournetoinvent.com][Return to homepage]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:

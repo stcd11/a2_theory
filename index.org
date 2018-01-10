@@ -46,6 +46,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
+* [[file:examples/2017.pdf][June 2017 Paper]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
 * [[http://www.bournetoinvent.com][Return to homepage]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
